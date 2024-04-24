@@ -1,17 +1,15 @@
-# Installation
-
 ```
-# Install dependencies
-npm install
+## Project Overview
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+- **Cache Bank Landing Page**: SDF project using Tailwind to make a landing page for Cache Bank, using all tools and following videos to make a front-end and repsonsive page
 
-# Compile Tailwind CSS
-npm run build
+- **What I've learnt**: How to use adn communicate with git and github more through vsc terminal. More comfortable with using tailwind. Learnt how to use vsc addons to make using tailwind more organised and not as cluttered.
+- **Issues**: Component 1 video was a bit confusing to follow, and had issues with the style.css file but managed to solve it
 
-# Compile Tailwind CSS minified
-npm run build-minify
+
+# Where I can improve and what I've learnt
+
+I can deff improve in learning how to use the terminal more, other than using it for github, I feel like i don't use it as much as i should for npms and installing tools. But i have learnt how to use the terminal more regardless. I'm also a lot more confident on how to use tailwind and feel like i can confidently make my own personal playground websites using it now that i understand how it works.
 
 ```
 
